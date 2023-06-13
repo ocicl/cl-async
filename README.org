@@ -1,0 +1,9 @@
+* cl-async
+
+Asynchronous IO library for Common Lisp.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/orthecreedence/cl-async.git |
+| commit  | 909c691                                            |
+| systems | cl-async                                           |
+|---------+----------------------------------------------------|
