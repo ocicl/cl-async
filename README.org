@@ -4,6 +4,6 @@ Asynchronous IO library for Common Lisp.
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/orthecreedence/cl-async.git |
-| commit  | 2d9a976                                            |
+| commit  | 289aac9                                            |
 | systems | cl-async cl-async-ssl                              |
 |---------+----------------------------------------------------|
